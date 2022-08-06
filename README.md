@@ -1,10 +1,10 @@
 # NATO Phonetic Alphabet App Python
  
-An app that tell you a word assigned to each Alphabet for a peice of text entered!
+An app that tell you a word assigned to each Alphabet for a piece of text entered!
 
 ## Use Case:
 
-When you are on a phone and you want to spell a name or a peice of text, letter-by-letter as words, you can use this program to help you.
+When you are on a phone and you want to spell a name or a peice of text, letter-by-letter as individual word, you can use this program to help you with the same.
 
 ## License:
 
